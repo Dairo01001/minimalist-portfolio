@@ -1,0 +1,281 @@
+{
+  "basics": {
+    "name": "Dairo García Naranjo",
+    "label": "Full Stack Developer con más de 3 años de experiencia.",
+    "image": "/me.webp",
+    "email": "garcianaranjodairo@gmail.com",
+    "phone": "+57 302 748 5520",
+    "url": "https://johndoe.com",
+    "summary": "Más de 3 años de experiencia como Desarrollador Web. Mi mentalidad de aprendizaje ha sido un pilar fundamental a lo largo de mi experiencia. Vivo en Florencia, Colombia. He trabajado en diferentes entorno: desde proyectos propios a equipos en start-ups.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Florencia",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Dairo01001",
+        "url": "https://github.com/Dairo01001"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Dairo García Naranjo",
+        "url": "https://www.linkedin.com/in/dairo-garc%C3%ADa-naranjo/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "dairodev",
+      "position": "Full Stack Developer",
+      "url": "https://company.com",
+      "startDate": "2023-11-20",
+      "endDate": null,
+      "summary": "MerCamp es una plataforma innovadora que establece un puente directo entre productores y consumidores, eliminando intermediarios. Con nuestra aplicación, los agricultores, artesanos y productores locales pueden ofrecer sus productos frescos y artesanales de manera directa a los consumidores, garantizando transparencia y calidad.",
+      "highlights": [
+        "NextJS",
+        "TypeScript",
+        "Tailwind CSS",
+        "GitHub",
+        "CI/CD",
+        "Prisma",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Zogui",
+      "position": "Frond End",
+      "url": "https://company.com",
+      "startDate": "2022-04-20",
+      "endDate": null,
+      "summary": "Diseñamos y lanzamos una aplicación completamente nueva, diseñada para optimizar y agilizar los procesos de gestión y planificación de eventos dentro de entornos organizativos.",
+      "highlights": [
+        "ReactJs",
+        "CSS",
+        "HTML",
+        "GitHub",
+        "CI/CD",
+        "AWS",
+        "TypeScript"
+      ]
+    },
+    {
+      "name": "Da&To",
+      "position": "Full Stack Developer",
+      "url": "https://company.com",
+      "startDate": "2020-01-25",
+      "endDate": "2022-04-01",
+      "summary": "Transformamos por completo la gestión de empleados y cuentas de una empresa independiente, logrando una transición total desde registros escritos a una solución digital que representó una mejora del 100% en eficiencia y precisión.",
+      "highlights": [
+        "ReactJs",
+        "Material UI",
+        "CSS",
+        "GitHub",
+        "CI/CD",
+        "JavaScript",
+        "Node",
+        "PostgreSQL",
+        "Jest"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de la Amazonia",
+      "url": "https://www.uniamazonia.edu.co/",
+      "area": "Ingeniería de Sistemas",
+      "studyType": "Pregrado",
+      "startDate": "2020-02-05",
+      "endDate": null,
+      "summary": "Participación activa en diversas competiciones de programación competitiva, con destacadas actuaciones a nivel local y nacional.",
+      "score": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "Henry",
+      "url": "https://www.soyhenry.com/",
+      "area": "Full Stack Web Developer",
+      "studyType": "Bootcamp",
+      "startDate": "2021-02-05",
+      "endDate": "2021-07-05",
+      "summary": "Se ha creado un ecommerce especializado en la venta de artículos deportivos, destacando marcas reconocidas y una amplia variedad de productos.",
+      "score": "4.0",
+      "courses": [
+        "Basic SQL",
+        "ReactJs",
+        "Node",
+        "PostgreSQL",
+        "CSS",
+        "HTML",
+        "JavaScript"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "ReactJS",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Node",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "NestJS",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Git",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "CI/CD",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Rápido aprendizaje",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Resolución de problemas",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Pensamiento pragmático",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Trabajo en equipo",
+      "level": "Master",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "TheBestWashing",
+      "isActive": true,
+      "startDate": "2020-01-25",
+      "endDate": "2022-04-01",
+      "description": "Administración integral de personal y clientes en un servicio de lavado de motocicletas.",
+      "highlights": [
+        "Más de 100 nuevos clientes diariamente",
+        "Administración de pagos a empleados"
+      ],
+      "url": "https://thebestwashing.com/"
+    },
+    {
+      "name": "MerCamp",
+      "isActive": true,
+      "startDate": "2023-11-20",
+      "endDate": null,
+      "description": "Establece un puente directo entre productores y consumidores, eliminando intermediarios.",
+      "highlights": ["Administración de productos"],
+      "url": "https://mercamp-main.vercel.app/"
+    }
+  ]
+}
